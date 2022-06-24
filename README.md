@@ -1,4 +1,4 @@
-# On the Importance of Considering Non-Human Errors in Machine Learning
+# On the Importance of Non-Human Errors in Machine Learning
 _by Marina Estévez-Almenzar and Ricardo Baeza-Yates_
 
 In this repository we release a simple notebook with all the calculations we made in the paper _On the Importance of Considering Non-Human Errors in Machine Learning_.
